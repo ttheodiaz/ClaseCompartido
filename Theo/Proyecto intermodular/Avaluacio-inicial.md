@@ -1,51 +1,44 @@
-Preguntes
+Qué consecuencias puede tener una mala planificación o análisis de requisitos en un proyecto de software?
+Pues que el proyecto se retrase, cueste más dinero y al final igual no sale lo que el cliente queria.
 
-Què entens per “projecte de desenvolupament web o de programari”?
+Qué roles crees que hay dentro de un equipo de desarrollo web?
+Pues está el frontend, el backend, el diseñador UI/UX y el que gestiona el proyecto, aunque no sé muy bien todos los que hay realmente.
 
-Un projecte de desenvolupament web o programari és quan es planifica i es crea una aplicació o pàgina web
+Qué diferencia hay entre trabajar en equipo y trabajar de manera individual en proyectos tecnológicos?
+En equipo puedes repartir trabajo y avanzar más rapido pero te tienes que coordinar, y solo tienes que hacer todo tu pero vas mas libre.
 
-Quins passos o fases creus que s’han de seguir per a planificar una aplicació web (des de la idea inicial fins al disseny)?
+Has participado antes en algún trabajo en grupo donde hayas tenido que organizar y repartir tareas? Explícalo brevemente.
+Sí, en un trabajo de clase repartimos las partes entre todos y despues lo juntamos todo.
 
-Jo diria que primer s'ha d'analitzar què vol el client, després dissenyar com serà y per acabar, programar-ho i probar-ho
+Qué entiendes por "hito" dentro de la planificación de un proyecto?
+Supongo que es como un punto importante donde se acaba una parte del proyecto, pero no lo tengo muy claro.
 
-Has treballat abans amb alguna metodologia de gestió de projectes (Scrum, Kanban, Waterfall...)?
+Qué es para ti un "entregable" en 1º de DAW?
+La version definitiva de un proyecto.
 
-No.
+Qué importancia tiene la comunicación directa y la coordinación en el aula cuando se trabaja en equipo de desarrollo?
+Mucha, porque si no habláis entre vosotros cada uno hace una cosa distinta y despues no encaja.
 
-Coneixes o has utilitzat alguna eina de gestió de tasques o projectes (Trello, Jira, MS Project, Notion...)? Si és així, quina?
+Conoces qué es un diagrama de Gantt o un tablero Kanban? Los has utilizado alguna vez?
+No se lo que es.
 
-Sí, pero només he utilitzat GitHub.
+Sabes qué es un repositorio de código (como GitHub o GitLab) o un sistema de control de versiones (Git)?
+Sí, es donde guardas el código y vas haciendo cambios, yo uso GitHub.
 
-Per què penses que és important planificar l'estructures i el disseny d'un projecte web abans de començar a escriure codi?
+Qué ventajas crees que tiene utilizar un sistema de control de versiones cuando varias personas trabajamos en un mismo proyecto?
+Que puedes ver los cambios de cada uno y no se pierde trabajo ni se sobreescribe lo que ha hecho otro.
 
-Perquè si no planifiques bé abans, després quan estàs programant et trobes amb problemes que no havies pensat i has de tornar arrere.
+Por qué crees que las empresas del sector del software utilizan metodologías ágiles?
+No lo sé muy bien, supongo que para ir más rapido y adaptarse a los cambios.
 
-Quines conseqüències pot tindre una mala planificació o anàlisi de requisits en un projecte de programari?
+Qué significa para ti la "calidad de una aplicación web"?
+Que funcione bien, que sea fácil de usar y que no de errores ni problemas de seguridad.
 
-Quins rols creus que hi ha dins d’un equip de desenvolupament web (desenvolupador/a frontend, backend, dissenyador/a UI/UX, gestor/a de projectes...)?
+Conoces qué es el "presupuesto" de un proyecto informático y qué relación tiene con la estimación de tiempo y recursos?
+El presupuesto es la inversion que se le pone al proyecto y supongo que a mas inversion mas recursos y se hace en menos tiempo.
 
-Quina diferència hi ha entre treballar en equip i treballar de manera individual en projectes tecnològics?
+Crees que es importante identificar los riesgos de un proyecto antes de empezarlo? Por qué?
+Sí, porque así sabes a lo que te enfrentas y puedes evitar problemas despues.
 
-Has participat abans en algun treball en grup on hages hagut d’organitzar i repartir tasques? Explica-ho breument.
-
-Què entens per “fita” (hito) dins de la planificació d'un projecte?
-
-Què és per a tu un “lliurable” en 1er de DAW (per exemple: memòria d'anàlisi, prototip visual, model de base de dades...)?
-
-Quina importància té la comunicació directa i la coordinació a l'aula quan es treballa en un equip de desenvolupament?
-
-Coneixes què és un diagrama de Gantt o un tauler Kanban? Els has utilitzat mai?
-
-Saps què és un repositori de codi (com GitHub o GitLab) o un sistema de control de versions (Git)?
-
-Quins avantatges creus que té utilitzar un sistema de control de versions quan diverses persones treballem en un mateix projecte de programari?
-
-Per què creus que les empreses del sector del programari utilitzen metodologies àgils?
-
-Què significa per a tu la “qualitat d'una aplicació web” (usabilitat, seguretat, eficiència, disseny...)?
-
-Coneixes què és el “pressupost” d’un projecte informàtic i quina relació té amb l'estimació de temps i recursos?
-
-Creus que és important identificar els riscos d’un projecte (tècnics, temporals, d'equip) abans de començar-lo? Per què?
-
-Què esperes aprendre en aquest mòdul sobre la planificació, el disseny i la gestió de projectes web?
+Qué esperas aprender en este módulo sobre la planificación, el diseño y la gestión de proyectos web?
+Espero aprender a organizarme mejor cuando hago un proyecto y a trabajar en equipo de una manera mas ordenada.
